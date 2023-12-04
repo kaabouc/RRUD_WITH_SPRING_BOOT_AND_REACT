@@ -29,4 +29,11 @@ This is a simple CRUD (Create, Read, Update, Delete) application implemented usi
 1. Clone the backend repository:
 
    ```bash
-   git clone https://github.com/your-username/backend-repo.git
+   git clone https://github.com/kaabouc/RRUD_WITH_SPRING_BOOT_AND_REACT.git
+
+### Running the Frontend (React)
+1. Clone the frontend repository:
+
+-bash
+-Copy code
+   git clone https://github.com/kaabouc/RRUD_WITH_SPRING_BOOT_AND_REACT.git
